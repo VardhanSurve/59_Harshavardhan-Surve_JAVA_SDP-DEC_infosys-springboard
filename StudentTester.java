@@ -66,7 +66,7 @@ public class StudentTester{
 
         // Using setter methods to set values
         student1.setStudentId(1);
-        student1.setStudentName("Aditya Biradar");
+        student1.setStudentName("Harshavardhan Surve");
         student1.setQualifyingMarks(75.5);
         student1.setYearOfEngineering(3);
         student1.setResidentialStatus('H');
